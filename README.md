@@ -2,12 +2,12 @@
 
 <p><strong>Purpose of this project:</strong><br>
 This project aims to create a landing page for an organization specializing in planning personal and corporate events. The landing page will include the following sections:</p>
-- **Application Description:** Overview of the event planning services.
-- **Event Categories:** Various types of events the organization can plan.
-- **Features:** Key features and benefits of the event planning services.
-- **Testimonials:** Customer feedback and success stories.
-- **Contact Form:** A form for potential clients to get in touch.
-- **Footer:** Final section with additional links and information.
+- Application Description: Overview of the event planning services.
+- Event Categories: Various types of events the organization can plan.
+- Features: Key features and benefits of the event planning services.
+- Testimonials: Customer feedback and success stories.
+- Contact Form: A form for potential clients to get in touch.
+- Footer: Final section with additional links and information.
 
 
 ### Main Features:
